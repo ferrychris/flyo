@@ -1,0 +1,52 @@
+header{
+    display: flex;
+    margin-top: 20px;
+    
+}
+#logo{
+    margin-left: 70px;
+}
+#meniu{ display: flex;
+    margin-left: 660px;
+    align-items: flex-end;
+}
+ul{
+  text-decoration: none;
+}
+#normbody{
+    margin-left: 70px;
+    display: flex;
+    // align-items: self-end;
+}
+#art{
+    margin-left: 160px;
+}
+
+#sect h2{
+    margin-top:150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#sect p{
+    -ms-text-kashida-space: 3px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#email{padding: 10px;
+        border-radius: 4px;
+    border-color: blue;
+}
+#name{
+    padding: 10px;
+        border-radius: 4px;
+    border-color: blue;
+}
+
+#gestarted{ background-color: blue;
+            padding:10px;
+            border-color: blue;
+            
+        }
+
+    // Another Section
+
+
